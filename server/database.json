@@ -1,0 +1,21 @@
+{
+    "books": [{
+            "id": 1,
+            "title": "a minima itaque",
+            "description": "lorem ipsum dolor sit amet, consectetur lorem ipsum",
+            "published": true
+        },
+        {
+            "id": 2,
+            "title": "carne diem",
+            "description": "lorem ipsum dolor sit amet, consectetur lorem ipsum",
+            "published": true
+        },
+        {
+            "id": 3,
+            "title": "frutis fugit",
+            "description": "lorem ipsum dolor sit amet, consectetur lorem ipsum",
+            "published": true
+        }
+    ]
+}
